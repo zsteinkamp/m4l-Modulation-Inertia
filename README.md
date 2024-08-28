@@ -4,7 +4,9 @@ This is a utility device that provide some inertia to a modulation signal.
 
 ![The Device](images/device.gif)
 
-* *Input* - The input signal, shown as the blue line in the graph. Chances are you would map something to this knob.
+The blue line in the graph is the Input signal. The yellow line is the Output signal, which you would then map to other parameters in your Live Set.
+
+* *Input* - The input signal. Chances are you would map something to this knob.
 * *Rise* - How much time the output signal should take to rise to a higher input value.
 * *Fall* - The amount of time the output signal should fall to a lower input value.
 
