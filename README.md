@@ -6,6 +6,8 @@ This is a utility device that provide some inertia to a modulation signal.
 
 The blue line in the graph is the Input signal. The yellow line is the Output signal, which you would then map to other parameters in your Live Set.
 
+In the example above, the Output signal is mapped to the filter frequency of the Auto Filter following it. The Input signal is quite sudden in its up and down movement, but Modulation Inertia smooths it out. It has the ability to apply different smoothing to rising and falling signals, which facilitates making things like an Attack-Decay envelope capability.
+
 * *Input* - The input signal. Chances are you would map something to this knob.
 * *Rise* - How much time the output signal should take to rise to a higher input value.
 * *Fall* - The amount of time the output signal should fall to a lower input value.
