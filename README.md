@@ -20,7 +20,8 @@ Download the newest .amxd file from the Changelog section below, or clone this r
 
 ## Changelog
 
-* 2024-08-26 [v1](https://github.com/zsteinkamp/m4l-Modulation-Inertia/raw/main/frozen/Modulation%20Inertia%20v1.amxd) - Initial Release
+* 2024-10-29 [v2](https://github.com/zsteinkamp/m4l-Modulation-Inertia/releases/download/v2/ModulationInertia-v2.amxd) - Adds telemetry (non-blocking, non-identifying)
+* 2024-08-26 [v1](https://github.com/zsteinkamp/m4l-Modulation-Inertia/releases/download/v1/Modulation.Inertia.v1.amxd) - Initial Release
 
 ## TODO
 
